@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAGA.Choreography.Orders.API", "SAGA.Choreography.Orders.API\SAGA.Choreography.Orders.API.csproj", "{56AB78E2-82DB-419E-B439-60973AD927F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAGA.Choreography.Inventory.API", "SAGA.Choreography.Inventory.API\SAGA.Choreography.Inventory.API.csproj", "{D1E9A26F-AE9C-4CC1-A40B-931F668D556A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AB78E2-82DB-419E-B439-60973AD927F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AB78E2-82DB-419E-B439-60973AD927F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AB78E2-82DB-419E-B439-60973AD927F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AB78E2-82DB-419E-B439-60973AD927F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E9A26F-AE9C-4CC1-A40B-931F668D556A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E9A26F-AE9C-4CC1-A40B-931F668D556A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E9A26F-AE9C-4CC1-A40B-931F668D556A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E9A26F-AE9C-4CC1-A40B-931F668D556A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9732378-F764-4902-81E8-DF97DD1AB936}
+	EndGlobalSection
+EndGlobal
